@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/senniksoft/react-copyright-free-image-searching-by-Unsplash-API/static/css/main.99f8db1d.chunk.css",
+    "main.js": "/senniksoft/react-copyright-free-image-searching-by-Unsplash-API/static/js/main.cef895b3.chunk.js",
+    "main.js.map": "/senniksoft/react-copyright-free-image-searching-by-Unsplash-API/static/js/main.cef895b3.chunk.js.map",
+    "runtime-main.js": "/senniksoft/react-copyright-free-image-searching-by-Unsplash-API/static/js/runtime-main.17330c60.js",
+    "runtime-main.js.map": "/senniksoft/react-copyright-free-image-searching-by-Unsplash-API/static/js/runtime-main.17330c60.js.map",
+    "static/css/2.918a0bc6.chunk.css": "/senniksoft/react-copyright-free-image-searching-by-Unsplash-API/static/css/2.918a0bc6.chunk.css",
+    "static/js/2.f0abc202.chunk.js": "/senniksoft/react-copyright-free-image-searching-by-Unsplash-API/static/js/2.f0abc202.chunk.js",
+    "static/js/2.f0abc202.chunk.js.map": "/senniksoft/react-copyright-free-image-searching-by-Unsplash-API/static/js/2.f0abc202.chunk.js.map",
+    "index.html": "/senniksoft/react-copyright-free-image-searching-by-Unsplash-API/index.html",
+    "precache-manifest.ecde0bc0a5813113a350f012c744f338.js": "/senniksoft/react-copyright-free-image-searching-by-Unsplash-API/precache-manifest.ecde0bc0a5813113a350f012c744f338.js",
+    "service-worker.js": "/senniksoft/react-copyright-free-image-searching-by-Unsplash-API/service-worker.js",
+    "static/css/2.918a0bc6.chunk.css.map": "/senniksoft/react-copyright-free-image-searching-by-Unsplash-API/static/css/2.918a0bc6.chunk.css.map",
+    "static/css/main.99f8db1d.chunk.css.map": "/senniksoft/react-copyright-free-image-searching-by-Unsplash-API/static/css/main.99f8db1d.chunk.css.map",
+    "static/js/2.f0abc202.chunk.js.LICENSE.txt": "/senniksoft/react-copyright-free-image-searching-by-Unsplash-API/static/js/2.f0abc202.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/senniksoft/react-copyright-free-image-searching-by-Unsplash-API/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17330c60.js",
+    "static/css/2.918a0bc6.chunk.css",
+    "static/js/2.f0abc202.chunk.js",
+    "static/css/main.99f8db1d.chunk.css",
+    "static/js/main.cef895b3.chunk.js"
+  ]
+}
