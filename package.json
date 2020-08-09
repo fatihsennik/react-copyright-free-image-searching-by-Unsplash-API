@@ -1,14 +1,21 @@
 {
-  "name": "lolim",
-  "version": "0.1.0",
+  "name": "searchimages",
+  "version": "0.1.1",
   "private": true,
+  "author": "Fatih Şennik <info@fatihsennik.com> (https://senniksoft.com)",
+  "license": "MIT",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "axios": "^0.19.2",
+    "faker": "^4.1.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-github-btn": "^1.2.0",
+    "react-scripts": "3.4.1",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^1.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
