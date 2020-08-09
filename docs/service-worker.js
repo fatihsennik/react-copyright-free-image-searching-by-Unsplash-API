@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/senniksoft/react-copyright-free-image-searching-by-Unsplash-API/precache-manifest.ecde0bc0a5813113a350f012c744f338.js"
+  "/react-copyright-free-image-searching-by-Unsplash-API/precache-manifest.9a17173aa52f5f3f9ee29b14342f74aa.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/senniksoft/react-copyright-free-image-searching-by-Unsplash-API/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/react-copyright-free-image-searching-by-Unsplash-API/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
