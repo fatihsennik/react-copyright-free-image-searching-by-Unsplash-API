@@ -1,6 +1,6 @@
 # React Copyright-free Image searching by Unsplash Api
 
-Online Demo: https://senniksoft.github.io/react-copyright-free-image-searching-by-Unsplash-API/.
+Online Demo: https://fatihsennik.github.io/react-copyright-free-image-searching-by-Unsplash-API/.
 
 # How to Use React Copyright-free Image searching app ?
 
@@ -8,7 +8,7 @@ Search copyright-free images by just hit enter
 
 #  Demo Gif
 
-![](https://github.com/senniksoft/react-copyright-free-image-searching-by-Unsplash-API/blob/master/demo.gif)
+![](https://github.com/fatihsennik/react-copyright-free-image-searching-by-Unsplash-API/blob/master/demo.gif)
 
 
 #  Libs used!
